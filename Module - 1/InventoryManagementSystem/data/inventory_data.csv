@@ -1,0 +1,13 @@
+id,name,sku,category,costPrice,sellingPrice,quantity,reorderLevel,supplier,lastUpdated
+P112,Aluminum Laptop Stand,OFFC-LST-01,OFFICE_SUPPLIES,15.0,29.99,25,10,Studio Desk Gear,2026-10-04T11:00:00
+P101,Dell XPS 15 Laptop,TECH-XPS15,ELECTRONICS,1100.0,1499.99,12,5,Dell Direct,2026-10-05T10:56:22.903737
+P110,Digital Blood Pressure Monitor,HLTH-BPM01,HEALTHCARE,32.0,64.99,12,5,MedTech Innovations,2026-10-02T13:40:00
+P108,Dry-Fit Sports Hoodie,APP-HD-BLK,APPAREL,22.0,45.0,1,8,Apex Athletics,2026-10-05T10:56:22.903806
+P104,Ergonomic Mesh Chair,FURN-ERG01,FURNITURE,140.0,249.0,3,5,Comfort Seating Co,2026-10-01T08:45:00
+P107,Extra Virgin Olive Oil,GROC-EVOO1,GROCERIES,12.0,19.99,18,15,Tuscany Estates,2026-10-04T12:00:00
+P102,Logitech MX Master 3S,TECH-MXM3S,ELECTRONICS,65.0,99.99,19,10,Logitech Global,2026-10-05T10:56:22.903649
+P109,Merino Wool Socks (Pack),APP-SCK-03,APPAREL,7.0,16.5,42,12,Highland Mills,2026-10-05T09:10:00
+P106,Organic Arabica Coffee,GROC-COF01,GROCERIES,8.5,14.99,65,20,Green Valley Organics,2026-10-03T10:00:00
+P103,Samsung 4K 27 Monitor,TECH-SAM27,ELECTRONICS,220.0,329.5,8,6,Samsung Displays,2026-10-03T14:15:00
+P105,Solid Oak Standing Desk,FURN-OAKSD,FURNITURE,280.0,499.0,6,4,Nordic Woodworks,2026-10-02T16:20:00
+P111,Wireless Mechanical Keyboard,TECH-KB-MEC,ELECTRONICS,75.0,129.99,5,6,Keychron Partners,2026-10-03T17:00:00

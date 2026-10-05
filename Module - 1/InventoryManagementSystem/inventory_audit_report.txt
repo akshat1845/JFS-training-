@@ -1,0 +1,48 @@
+===========================================================================
+         ENTERPRISE INVENTORY INTELLIGENCE & AUDIT REPORT
+         Generated At: 2026-10-05 10:56:22
+===========================================================================
+
+>>> EXECUTIVE METRICS <<<
+  Total Distinct SKU Products : 12
+  Total Units In Stock        : 216 units
+  Total Asset Value (At Cost) : $20,513.50
+  Total Retail Inventory Value: $30,528.44
+  Projected Gross Margin      : $10,014.94 (32.8%)
+  Items Requiring Reorder     : 3
+
+---------------------------------------------------------------------------
+>>> CATEGORY BREAKDOWN <<<
+---------------------------------------------------------------------------
+  Category             | Products     | Retail Value        
+---------------------------------------------------------------------------
+  ELECTRONICS          | 4            | $         23,185.64
+  GROCERIES            | 2            | $          1,334.17
+  APPAREL              | 2            | $            738.00
+  FURNITURE            | 2            | $          3,741.00
+  HEALTHCARE           | 1            | $            779.88
+  OFFICE_SUPPLIES      | 1            | $            749.75
+
+---------------------------------------------------------------------------
+>>> LOW STOCK ALERT MONITOR <<<
+---------------------------------------------------------------------------
+  ID     | Product Name             | Available  | Threshold  | Supplier       
+---------------------------------------------------------------------------
+  P108   | Dry-Fit Sports Hoodie    | 1          | 8          | Apex Athletics 
+  P104   | Ergonomic Mesh Chair     | 3          | 5          | Comfort Seating Co
+  P111   | Wireless Mechanical K... | 5          | 6          | Keychron Partners
+
+---------------------------------------------------------------------------
+>>> RECENT AUDIT TRANSACTION LOG (LAST 10) <<<
+---------------------------------------------------------------------------
+  [2026-10-05 10:56:22] TX-1006    | STOCK_IN     | Organic Arabica Coffee | Qty:  65 | Value: $  552.50 | Note: Initial stock
+  [2026-10-05 10:56:22] TX-1007    | STOCK_IN     | Extra Virgin Olive Oil | Qty:  18 | Value: $  216.00 | Note: Initial stock
+  [2026-10-05 10:56:22] TX-1008    | STOCK_IN     | Dry-Fit Sports Hoodie | Qty:   2 | Value: $   44.00 | Note: Initial stock
+  [2026-10-05 10:56:22] TX-1009    | STOCK_IN     | Merino Wool Socks (Pack) | Qty:  42 | Value: $  294.00 | Note: Initial stock
+  [2026-10-05 10:56:22] TX-1010    | STOCK_IN     | Digital Blood Pressure Monitor | Qty:  12 | Value: $  384.00 | Note: Initial stock
+  [2026-10-05 10:56:22] TX-1011    | STOCK_IN     | Wireless Mechanical Keyboard | Qty:   5 | Value: $  375.00 | Note: Initial stock
+  [2026-10-05 10:56:22] TX-1012    | STOCK_IN     | Aluminum Laptop Stand | Qty:  25 | Value: $  375.00 | Note: Initial stock
+  [2026-10-05 10:56:22] TX-1013    | STOCK_IN     | Logitech MX Master 3S | Qty:  15 | Value: $  975.00 | Note: Batch PO-9921
+  [2026-10-05 10:56:22] TX-1014    | STOCK_OUT    | Dell XPS 15 Laptop | Qty:   2 | Value: $ 2999.98 | Note: Invoice #INV-2026-001
+  [2026-10-05 10:56:22] TX-1015    | STOCK_OUT    | Dry-Fit Sports Hoodie | Qty:   1 | Value: $   45.00 | Note: Order #ORD-882
+===========================================================================
