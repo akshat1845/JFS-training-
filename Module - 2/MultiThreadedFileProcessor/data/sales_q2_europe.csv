@@ -1,0 +1,8 @@
+transactionId,date,region,customerType,category,product,unitsSold,unitPrice,discountRate,paymentMethod
+TX-2001,2026-04-02,Europe,Retail,Electronics,Sony WH-1000XM5,10,349.99,0.05,Credit Card
+TX-2002,2026-04-12,Europe,Wholesale,Groceries,Organic Olive Oil Batch,120,12.00,0.10,Bank Transfer
+TX-2003,2026-05-01,Europe,Retail,Apparel,Waterproof Hiking Boots,18,140.00,0.00,PayPal
+TX-2004,2026-05-18,Europe,Enterprise,Furniture,Conference Table Setup,4,1200.00,0.12,Bank Transfer
+TX-2005,2026-06-04,Europe,Retail,Electronics,4K OLED Gaming Monitor,7,799.00,0.05,Credit Card
+TX-2006,2026-06-20,Europe,Retail,Healthcare,Smart Health Tracker,30,89.50,0.05,UPI
+TX-2007,2026-06-25,Europe,Wholesale,Office Supplies,Ergonomic Keyboard Bundles,40,65.00,0.15,Bank Transfer

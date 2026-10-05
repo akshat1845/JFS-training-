@@ -1,0 +1,8 @@
+transactionId,date,region,customerType,category,product,unitsSold,unitPrice,discountRate,paymentMethod
+TX-3001,2026-07-08,Asia-Pacific,Retail,Electronics,iPad Pro 12.9,14,1099.00,0.05,UPI
+TX-3002,2026-07-19,Asia-Pacific,Enterprise,Electronics,Server Rack Switches,5,2200.00,0.10,Bank Transfer
+TX-3003,2026-08-04,Asia-Pacific,Retail,Apparel,Dry-Fit Athletic Jersey,65,35.00,0.05,Credit Card
+TX-3004,2026-08-22,Asia-Pacific,Wholesale,Groceries,Green Tea Extract Cartons,200,9.00,0.15,Bank Transfer
+TX-3005,2026-09-02,Asia-Pacific,Retail,Furniture,Mesh Drafting Stool,15,110.00,0.00,UPI
+TX-3006,2026-09-17,Asia-Pacific,Retail,Electronics,Mechanical Keyboards,45,120.00,0.08,PayPal
+TX-3007,2026-09-29,Asia-Pacific,Wholesale,Healthcare,Infrared Thermometers,80,24.00,0.12,Credit Card

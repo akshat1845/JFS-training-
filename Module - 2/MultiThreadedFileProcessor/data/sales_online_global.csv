@@ -1,0 +1,7 @@
+transactionId,date,region,customerType,category,product,unitsSold,unitPrice,discountRate,paymentMethod
+TX-4001,2026-09-30,Global-Online,Retail,Electronics,Noise Cancelling Earbuds,55,149.00,0.10,Credit Card
+TX-4002,2026-10-01,Global-Online,Retail,Apparel,Merino Wool Sweaters,35,85.00,0.05,PayPal
+TX-4003,2026-10-02,Global-Online,Retail,Office Supplies,Aluminum Monitor Arms,48,55.00,0.05,Credit Card
+TX-4004,2026-10-03,Global-Online,Retail,Groceries,Artisan Spice Kits,90,22.50,0.00,UPI
+TX-4005,2026-10-04,Global-Online,Retail,Healthcare,Aromatherapy Diffusers,60,38.00,0.10,PayPal
+TX-4006,2026-10-05,Global-Online,Wholesale,Electronics,USB-C Docking Stations,60,95.00,0.18,Bank Transfer

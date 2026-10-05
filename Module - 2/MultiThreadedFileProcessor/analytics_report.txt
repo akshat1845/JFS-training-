@@ -1,0 +1,77 @@
+
+================================================================================
+      ENTERPRISE MULTI-THREADED SALES & REVENUE ANALYTICS REPORT
+      Processed At: 2026-10-05 10:57:34
+================================================================================
+
+>>> CONCURRENCY & THREAD WORKLOAD BENCHMARK <<<
+  Worker Thread Count  : 4 threads
+  Files Processed      : 4 files
+  Total Input Lines    : 32 lines
+  Valid Transactions   : 28 records
+  Malformed/Skipped    : 0 records
+  Total Benchmark Time : 38 ms
+
+--------------------------------------------------------------------------------
+  THREAD WORKLOAD PER-FILE BREAKDOWN:
+--------------------------------------------------------------------------------
+  • [WorkerThread-1    ] sales_online_global.csv   | Lines:   7 | Valid:   6 | Net: $ 21,460.75 | Time:  4 ms
+  • [WorkerThread-2    ] sales_q3_apac.csv         | Lines:   8 | Valid:   7 | Net: $ 36,515.55 | Time:  4 ms
+  • [WorkerThread-3    ] sales_q1_north.csv        | Lines:   9 | Valid:   8 | Net: $ 26,371.06 | Time:  4 ms
+  • [WorkerThread-4    ] sales_q2_europe.csv       | Lines:   8 | Valid:   7 | Net: $ 21,439.01 | Time:  4 ms
+
+--------------------------------------------------------------------------------
+>>> EXECUTIVE FINANCIAL SUMMARY <<<
+--------------------------------------------------------------------------------
+  Total Units Sold          : 1,301 units
+  Gross Sales Volume        : $    115,079.75
+  Total Discounts Applied   : $      9,293.39 (8.1% avg)
+  Net Revenue Realized      : $    105,786.36
+  Estimated Tax (8%)        : $      8,462.91
+  Total Billed Value        : $    114,249.27
+  Average Order Value (AOV) : $      3,778.08
+
+--------------------------------------------------------------------------------
+>>> REVENUE & UNITS BY CATEGORY <<<
+--------------------------------------------------------------------------------
+  Category               | Units Sold   | Net Revenue      | Revenue %   
+--------------------------------------------------------------------------------
+  Electronics            |          223 | $      65,402.51 |       61.8%
+  Furniture              |           50 | $      12,399.00 |       11.7%
+  Apparel                |          130 | $       8,803.50 |        8.3%
+  Healthcare             |          320 | $       8,452.35 |        8.0%
+  Groceries              |          490 | $       6,011.00 |        5.7%
+  Office Supplies        |           88 | $       4,718.00 |        4.5%
+
+--------------------------------------------------------------------------------
+>>> REGIONAL MARKET BREAKDOWN <<<
+--------------------------------------------------------------------------------
+  Asia-Pacific           : $     36,515.55 (34.5%)
+  North America          : $     26,371.06 (24.9%)
+  Global-Online          : $     21,460.75 (20.3%)
+  Europe                 : $     21,439.01 (20.3%)
+
+--------------------------------------------------------------------------------
+>>> PAYMENT METHOD DISTRIBUTION <<<
+--------------------------------------------------------------------------------
+  Credit Card            : $     37,602.66
+  Bank Transfer          : $     29,819.00
+  UPI                    : $     22,002.45
+  PayPal                 : $     16,362.25
+
+--------------------------------------------------------------------------------
+>>> CUSTOMER SEGMENTATION <<<
+--------------------------------------------------------------------------------
+  Retail                 : $     69,493.76
+  Enterprise             : $     18,908.00
+  Wholesale              : $     17,384.60
+
+--------------------------------------------------------------------------------
+>>> TOP 5 PRODUCTS (BY NET REVENUE) <<<
+--------------------------------------------------------------------------------
+  ★ iPad Pro 12.9                  : $   14,616.70
+  ★ Server Rack Switches           : $    9,900.00
+  ★ MacBook Pro M3                 : $    7,596.20
+  ★ Noise Cancelling Earbuds       : $    7,375.50
+  ★ 4K OLED Gaming Monitor         : $    5,313.35
+================================================================================
